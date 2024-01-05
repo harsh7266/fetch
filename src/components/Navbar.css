@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.nav-content{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* margin: 5px; */
+    list-style: none;
+    background-color: aqua;
+    height: 40px;
+
+}
+
